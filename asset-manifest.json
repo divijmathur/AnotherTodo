@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/divijmathur/AnotherTodo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/divijmathur/AnotherTodo/static/js/main.4f34671e.chunk.js",
+    "main.js.map": "/divijmathur/AnotherTodo/static/js/main.4f34671e.chunk.js.map",
+    "runtime-main.js": "/divijmathur/AnotherTodo/static/js/runtime-main.e152a5b0.js",
+    "runtime-main.js.map": "/divijmathur/AnotherTodo/static/js/runtime-main.e152a5b0.js.map",
+    "static/js/2.fa1c7be4.chunk.js": "/divijmathur/AnotherTodo/static/js/2.fa1c7be4.chunk.js",
+    "static/js/2.fa1c7be4.chunk.js.map": "/divijmathur/AnotherTodo/static/js/2.fa1c7be4.chunk.js.map",
+    "index.html": "/divijmathur/AnotherTodo/index.html",
+    "precache-manifest.023dcfb301d8cee1846c23e649578edb.js": "/divijmathur/AnotherTodo/precache-manifest.023dcfb301d8cee1846c23e649578edb.js",
+    "service-worker.js": "/divijmathur/AnotherTodo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/divijmathur/AnotherTodo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fa1c7be4.chunk.js.LICENSE": "/divijmathur/AnotherTodo/static/js/2.fa1c7be4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e152a5b0.js",
+    "static/js/2.fa1c7be4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4f34671e.chunk.js"
+  ]
+}
